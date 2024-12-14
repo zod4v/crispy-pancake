@@ -1,6 +1,6 @@
 # crispy-pancake
 Loan Eligibility Prediction 
-**Project Overview**
+Project Overview : 
 The Loan Eligibility Prediction project aims to develop a predictive model that determines the eligibility of loan applicants based on various features such as income, credit score, employment status, and more. This project leverages data analysis and machine learning techniques to provide insights and assist financial institutions in making informed lending decisions.
 
 The dataset used in this project is sourced from [Kaggle]. It contains various attributes related to loan applicants, including:
